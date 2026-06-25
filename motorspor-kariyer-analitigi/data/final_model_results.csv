@@ -1,0 +1,2 @@
+model,accuracy,macro_f1,weighted_f1
+Linear SVC,0.8247946812671099,0.79,0.82
